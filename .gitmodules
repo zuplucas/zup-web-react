@@ -7,3 +7,6 @@
 [submodule "uxservices-web-react-citric-plugin"]
 	path = uxservices-web-react-citric-plugin
 	url = https://github.com/Orangestack-com/uxservices-web-react-citric-plugin
+[submodule "uxservices-web-react-shell-plugin"]
+	path = uxservices-web-react-shell-plugin
+	url = https://github.com/Orangestack-com/uxservices-web-react-shell-plugin
