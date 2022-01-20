@@ -10,3 +10,6 @@
 [submodule "uxservices-web-react-shell-plugin"]
 	path = uxservices-web-react-shell-plugin
 	url = https://github.com/Orangestack-com/uxservices-web-react-shell-plugin
+[submodule "uxservices-web-react-i18n-plugin"]
+	path = uxservices-web-react-i18n-plugin
+	url = https://github.com/Orangestack-com/uxservices-web-react-i18n-plugin
