@@ -4,3 +4,6 @@
 [submodule "uxservices-web-react-app-template"]
 	path = uxservices-web-react-app-template
 	url = https://github.com/Orangestack-com/uxservices-web-react-app-template
+[submodule "uxservices-web-react-citric-plugin"]
+	path = uxservices-web-react-citric-plugin
+	url = https://github.com/Orangestack-com/uxservices-web-react-citric-plugin
