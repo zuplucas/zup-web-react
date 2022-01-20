@@ -1,0 +1,3 @@
+[submodule "uxservices-web-react-beagle-plugin"]
+	path = uxservices-web-react-beagle-plugin
+	url = https://github.com/Orangestack-com/uxservices-web-react-beagle-plugin
