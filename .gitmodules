@@ -1,6 +1,9 @@
 [submodule "uxservices-web-react-app-template"]
 	path = uxservices-web-react-app-template
 	url = https://github.com/Orangestack-com/uxservices-web-react-app-template
+[submodule "uxservices-web-react-appshell-template"]
+	path = uxservices-web-react-shell-plugin
+	url = https://github.com/Orangestack-com/uxservices-web-react-appshell-template
 [submodule "uxservices-web-react-beagle-plugin"]
 	path = uxservices-web-react-beagle-plugin
 	url = https://github.com/Orangestack-com/uxservices-web-react-beagle-plugin	
