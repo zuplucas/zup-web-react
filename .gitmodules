@@ -1,0 +1,3 @@
+[submodule "web-react-app-template"]
+	path = web-react-app-template
+	url = https://github.com/stack-spot/web-react-app-template.git
