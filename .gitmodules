@@ -1,3 +1,6 @@
 [submodule "web-react-app-template"]
 	path = web-react-app-template
 	url = https://github.com/stack-spot/web-react-app-template.git
+[submodule "web-react-appshell-template"]
+	path = web-react-appshell-template
+	url = https://github.com/stack-spot/web-react-appshell-template.git
