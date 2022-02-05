@@ -4,3 +4,6 @@
 [submodule "web-react-appshell-template"]
 	path = web-react-appshell-template
 	url = https://github.com/stack-spot/web-react-appshell-template.git
+[submodule "web-react-beagle-plugin"]
+	path = web-react-beagle-plugin
+	url = https://github.com/stack-spot/web-react-beagle-plugin
