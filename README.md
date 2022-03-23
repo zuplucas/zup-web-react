@@ -32,25 +32,25 @@ Prerequisites:
 - [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) or [npm](https://nodejs.org/en/download/)
 - [STK cli](https://docs.stackspot.com.br/v3.2.0/docs/stk-cli/installation/)
 
-# Import Stack web react into STK cli
+Import Stack web react into STK cli
 
 ```bash
 stk import stack https://github.com/stack-spot/zup-web-react
 ```
 
-# Create an application
+Create an application
 
 ```bash
 stk create app hello_world -t zup-web-react/web-react-app
 ```
 
-# Enter the project folder
+Enter the project folder
 
 ```bash
 cd hello_world/app
 ```
 
-# Install de dependencies
+Install de dependencies
 
 with yarn
 
@@ -64,7 +64,7 @@ with npm
 npm install
 ```
 
-# Start application
+Start application
 
 ```bash
 # with yarn
