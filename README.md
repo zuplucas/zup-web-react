@@ -66,13 +66,15 @@ npm install
 
 Start application
 
+with yarn
+
 ```bash
-# with yarn
 $ yarn start
 ```
 
+with npm
+
 ```bash
-# with npm
 $ npm run start
 ```
 
