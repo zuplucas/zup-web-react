@@ -15,7 +15,7 @@ The Stack web React has:
 Applications
 
 - [React](https://github.com/stack-spot/web-react-app-template)
-- [React Shell(for microfrontend development)](https://github.com/stack-spot/web-react-appshell-template)
+- [React Shell](https://github.com/stack-spot/web-react-appshell-template)(for microfrontend development)
 
 Plugins
 
@@ -32,27 +32,44 @@ Prerequisites:
 - [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) or [npm](https://nodejs.org/en/download/)
 - [STK cli](https://docs.stackspot.com.br/v3.2.0/docs/stk-cli/installation/)
 
+Import Stack web react into STK cli
+
 ```bash
-# Import Stack web react into STK cli
 $ stk import stack https://github.com/stack-spot/zup-web-react
+```
 
-# Create an application
+Create an application
+
+```bash
 $ stk create app hello_world -t zup-web-react/web-react-app
+```
 
-# Enter the project folder
+Enter the project folder
+
+```bash
 $ cd hello_world/app
+```
 
-# Install de dependencies
+Install de dependencies
+
+```bash
 # with yarn
 $ yarn
+```
 
+```bash
 # with npm
 $ npm install
+```
 
 # Start application
+
+```bash
 # with yarn
 $ yarn start
+```
 
+```bash
 # with npm
 $ npm run start
 ```
@@ -62,7 +79,7 @@ $ npm run start
 With an application created you can now apply some plugins to use some advanced features of this stack:
 
 - [Add a design system to start implementing the screens of your application](https://github.com/stack-spot/web-react-citric-plugin)
-- [Create the resourses needed to deploy this new application in you AWS environment](https://github.com/stack-spot/web-react-deploy)
+- [Create the resourses needed to deploy this new application in your AWS environment](https://github.com/stack-spot/web-react-deploy)
 - And much more.
 
 ## Need Any Help ?
