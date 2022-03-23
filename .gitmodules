@@ -13,3 +13,6 @@
 [submodule "web-react-i18n-plugin"]
 	path = web-react-i18n-plugin
 	url = https://github.com/stack-spot/web-react-i18n-plugin
+[submodule "web-react-deploy"]
+	path = web-react-deploy
+	url = https://github.com/stack-spot/web-react-deploy
