@@ -10,6 +10,3 @@
 [submodule "web-react-citric-plugin"]
 	path = web-react-citric-plugin
 	url = https://github.com/stack-spot/web-react-citric-plugin.git
-[submodule "web-react-i18n-plugin"]
-	path = web-react-i18n-plugin
-	url = https://github.com/stack-spot/web-react-i18n-plugin
