@@ -1,0 +1,27 @@
+description: Inicialize aplicações web react preparadas para ambientes microfrontend com webpack module federation.
+
+name: zup-web-react
+
+displayName: Stack Web React
+
+picture: "react.png"
+
+category: Frontend
+
+# source: https://gitcorp.prod.aws.cloud.ihf/FW4/stack-spot/skynet-studio/skynet-dotnet-stack
+
+compatibility:
+  - webpack 5
+  - react 17
+
+technologies: []
+
+about: about.md
+
+useCases:
+  - title: Criar aplicação React
+    content: useCase.md
+    stackfile: stackfiles/default.yaml
+  - title: Criar aplicação shell para desenvolvimento microfrontend
+    content: useCase-shell-microfrontend.md
+    stackfile: stackfiles/shell-microfrontend.yaml
