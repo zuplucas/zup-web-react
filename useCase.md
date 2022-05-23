@@ -2,7 +2,7 @@ A stack **zup-web-react** provê templates e plugins para a inicialização e de
 
 ### Visão Geral
 
-O template **web-react-app-template** cria um projeto React 17 pronto para desenvolvimento de aplicações web. O template é instalado com a biblioteca de estilização **styled-components** e é preparado para ser conectado a um shell microfrontend que utiliza module federation. Este projeto e pronto para escrita e execução de testes unitários por meio das bibliotecas Jest e Testing Library. Por fim o projeto possui pré configurado o eslint e o prettier para garantir a padronização de escrita de código entre os desenvolvedores.
+O template **web-react-app-template** cria um projeto React 17 pronto para desenvolvimento de aplicações web. O template é instalado com a biblioteca de estilização **styled-components** e é preparado para ser conectado a um shell microfrontend que utiliza module federation. Este projeto e pronto para escrita e execução de testes unitários por meio das bibliotecas Jest e Testing Library. Por fim o projeto possui configurado o eslint e o prettier para garantir a padronização de escrita de código entre os desenvolvedores.
 
 ### Pré-requisitos
 
